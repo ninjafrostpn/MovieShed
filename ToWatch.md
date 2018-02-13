@@ -3,7 +3,7 @@
 | Film | Date Added | Notes |
 | ---- | ---------- | ----- |
 | Pulp Fiction | A while ago | How not to use an epipen |
-| Top Gun | A while ago | Planes? |
+| Top Gun | A while ago | Planes? 'Murica |
 | The Matrix | A while ago | Probably also the other 2 if we want |
 | Murder by Death | A while ago | Because it's probably still funny |
 | Fullmetal Alchemist Brotherhood | A while ago | Yaaaaaaah! |
@@ -15,3 +15,4 @@
 | Gravity Falls | 10.2.2018 | Maybe? It's kinda nice |
 | Rick and Morty | 10.2.2018 | Just because |
 | Arrival | 10.2.2018 | Supposed to be a good film |
+| Dr Who | 13.2.2018 | It's awesome! :) |
