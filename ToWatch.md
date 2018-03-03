@@ -2,7 +2,6 @@
 
 | Film | Date Added | Notes |
 | ---- | ---------- | ----- |
-| Pulp Fiction | A while ago | How not to use an epipen |
 | Top Gun | A while ago | Planes? 'Murica |
 | The Matrix | A while ago | Probably also the other 2 if we want |
 | Murder by Death | A while ago | Because it's probably still funny |
