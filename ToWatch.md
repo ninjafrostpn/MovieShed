@@ -15,3 +15,5 @@
 | Rick and Morty | 10.2.2018 | Just because |
 | Arrival | 10.2.2018 | Supposed to be a good film |
 | Dr Who | 13.2.2018 | It's awesome! :) |
+| Wacky Races | 4.3.2018 | If you've not seen them :D |
+| Star Wars | 4.3.2018 | Maybe |
