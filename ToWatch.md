@@ -16,4 +16,4 @@
 | Arrival | 10.2.2018 | Supposed to be a good film |
 | Dr Who | 13.2.2018 | It's awesome! :) |
 | Wacky Races | 4.3.2018 | If you've not seen them :D |
-| Star Wars | 4.3.2018 | Maybe |
+| Star Wars | 4.3.2018 | As a matter of urgency, even though they're not all great |
