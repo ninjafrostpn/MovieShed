@@ -21,3 +21,4 @@
 | Mortal Engines | 24.3.2018 | Whenever this comes out. |
 | Around the World in 80 Days | 6.4.2018 | You Fool! |
 | The Three Stooges | 8.4.2018 | Because Funny :D |
+| Scooby Doo Meets Batman | 13.4.2018 | Because... it's so terrible |
