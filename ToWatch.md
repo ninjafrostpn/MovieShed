@@ -25,3 +25,4 @@
 | Gravity | 13.4.2018 | Sandra Bullock floating in space | 
 | Hercules | 18.5.2018 | For the music and Hades, mostly |
 | The Emperor's New Groove | 18.5.2018 | Because funny |
+| Aladdin | 18.5.2018 | Maybe? Genie is funny |
