@@ -26,3 +26,5 @@
 | Hercules | 18.5.2018 | For the music and Hades, mostly |
 | The Emperor's New Groove | 18.5.2018 | Because funny |
 | Aladdin | 18.5.2018 | Maybe? Genie is funny |
+| Trainspotting | 18.7.2018 | Alex Cook recommends |
+| Life on Mars | 18.7.2018 | Is good |
