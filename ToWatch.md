@@ -28,3 +28,5 @@
 | Aladdin | 18.5.2018 | Maybe? Genie is funny |
 | Trainspotting | 18.7.2018 | Alex Cook recommends |
 | Life on Mars | 18.7.2018 | Is good |
+| 300 | 2.3.2019 | Never seen by either |
+| HTTYD3 | 2.3.2019. | Because of Course ;) |
